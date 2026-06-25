@@ -6,10 +6,10 @@
 Generate one standalone 16:9 horizontal Chinese article illustration.
 
 Visual DNA:
-Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse blue/yellow/red handwritten Chinese annotations. Clean hand-drawn product-sketch feeling. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
+Warm pale yellow sketchbook background, close to #FFF2B8 or #FFF6D8, inspired by the reference avatar's yellow background. Minimalist dark brown-black hand-drawn line art. Slightly wobbly pen lines. Visible crayon and colored-pencil grain in the fills. Lots of empty space. Sparse blue/yellow/red handwritten Chinese annotations. Clean hand-drawn product-sketch feeling. No pure white empty background, no gradients, no shadows, no realistic paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
 
 Recurring IP character required:
-Finn, a young male knowledge creator with thin round glasses, short blue-black hair, a white shirt, and a blue knitted sweater. Draw him in a simplified hand-drawn article-illustration style, not as a polished anime portrait. Finn must perform the core conceptual action, not decorate the scene. Make Finn calm, focused, warm, and slightly awkward in a real working moment.
+Finn, a young male knowledge creator with thin round glasses, short deep brown-black hair, warm peach skin, a white shirt, and a blue knitted sweater. The hair must read as deep brown-black, not bright blue. The skin must be warm and natural, not gray or pale white. Draw him in a simplified crayon / colored-pencil article-illustration style, not as a polished anime portrait. Finn must perform the core conceptual action, not decorate the scene. Make Finn calm, focused, warm, and slightly awkward in a real working moment.
 
 Theme:
 {正文配图主题}
@@ -30,10 +30,10 @@ Chinese handwritten labels:
 {标注词1} / {标注词2} / {标注词3} / {标注词4} / {可选标注词5}
 
 Color use:
-Black for main line art, structure, and handwritten labels. Blue #2F6FDB for Finn's sweater, main path, or system state. Yellow #F4D758 for highlight stickers, emphasis circles, and small background notes. Red #E86A5A only for key warnings, problems, or results.
+Dark brown-black #2D2522 for main line art, structure, handwritten labels, and Finn's hair. Blue #2F6FDB for Finn's sweater, main path, or system state. Warm peach #F3C7A8 / #FFDCC4 for Finn's face and hands. Yellow #F4D758 for highlight stickers, emphasis circles, and small background notes. Red #E86A5A only for key warnings, problems, or results.
 
 Constraints:
-One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% blank white space. Use at most 5-8 short handwritten Chinese labels. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, or dense explainer. Do not draw a black monster character. Do not copy prior examples or reuse known case compositions unless explicitly requested; invent a fresh visual metaphor for this specific article. It should be clear but not instructional, interesting but not childish, strange but clean.
+One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% empty background space. Use at most 5-8 short handwritten Chinese labels. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, or dense explainer. Do not draw a black monster character. Do not make Finn's hair bright blue. Do not make Finn's skin gray, cold white, or washed out. Do not use a pure white background. Do not copy prior examples or reuse known case compositions unless explicitly requested; invent a fresh visual metaphor for this specific article. It should be clear but not instructional, interesting but not childish, strange but clean.
 ```
 
 ## 图像编辑提示
@@ -41,7 +41,7 @@ One image explains only one core structure. Keep the main subject around 40%-60%
 去掉左上角标题：
 
 ```text
-Edit the provided image. Remove only the handwritten title "{要删除的文字}" and its underline from the top-left corner. Fill that area with the same clean white background, matching the surrounding blank paper. Preserve everything else exactly: characters, labels, paths, line style, composition, aspect ratio, and image quality. Do not add any new text or objects.
+Edit the provided image. Remove only the handwritten title "{要删除的文字}" and its underline from the top-left corner. Fill that area with the same warm pale yellow sketchbook background, matching the surrounding blank area. Preserve everything else exactly: characters, labels, paths, line style, composition, aspect ratio, and image quality. Do not add any new text or objects.
 ```
 
 增强 Finn 参与感：
